@@ -1,2 +1,2 @@
 # desafio-calculo-funcoes
-Desafio curso DIO
+Código para resolver desafio de curso DIO
