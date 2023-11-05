@@ -18,7 +18,6 @@ let level9 = 80 <= winDifference && winDifference < 90
 let level10 = 90 <= winDifference && winDifference < 100
 let level11 = winDifference >= 100
 
-
 if(level){
     title="Pedra"
 }else if(level2){
